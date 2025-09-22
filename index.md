@@ -11,5 +11,5 @@ Below is the required table for the assignment:
 
 | **Name** | Jad Hawi |
 |---|---|
-| **Introduction** | Hello, I am a junior in the BS IT program. I enjoy coding Python and R. |
-| **Hobbies** | Programming, making websites. |
+| **Introduction** | Hello guys! I’m an IT major interested in cybersecurity. I enjoy coding and working out. |
+| **Hobbies** | Coding, working out. |
